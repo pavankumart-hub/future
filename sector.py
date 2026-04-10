@@ -178,7 +178,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(
         "<div style='font-size:0.75rem; color:#5a6a82;'>"
-        "Sector Future © 2026<br>"
+        "Sector Future © 2025<br>"
         "Intern: Ms. Sarika T V<br>"
         "M.Sc. Data Science<br>"
         "Updated: 2026-04-05"
